@@ -1,0 +1,11 @@
+Quality measure,Value
+Total rows,100
+Total columns,19
+Duplicate complete rows,0
+Duplicate user IDs,0
+Duplicate email addresses,0
+Total remaining missing values,0
+Valid emails,100
+Invalid or missing emails,0
+Valid phone numbers,82
+Invalid or missing phone numbers,18
